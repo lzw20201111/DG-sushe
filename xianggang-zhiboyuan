@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 ,RTHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 ,Now直播（官方源）
+https://nowcom-newsstream-hk.viu.com/getnowmediahls/2jMV6EMjd72JutSJ_2QaGQ/1629837111/smil:331.smil/chunklist_b2008037.m3u8
+#EXTINF:-1 ,Now直播
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 ,Now新闻（官方源）
+https://nowcom-newsstream-hk.viu.com/getnowmediahls/Ec0NMCvQLJMFafUpVHi2pg/1629836908/smil:332.smil/chunklist_b3118924.m3u8
+#EXTINF:-1 ,Now新闻
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 ,香港开电视
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 ,无线新闻
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 ,无线财经资讯台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 ,Now Sport（其它源）
+http://ewcdnsite06.nowe.com/session/09-6f3d4729bbc3f12a617f7a9e6ad0c/Content/HLS/LIVE/Channel(HLS_CH630)/index.m3u8
+#EXTINF:-1 ,Now Sport
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 ,HKS香港卫视
+http://livetv.dnsfor.me:80/channel.15.m3u8
+#EXTINF:-1 ,凤凰香港
+http://livetv.dnsfor.me:80/channel.16.m3u8
+#EXTINF:-1 ,翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1 ,J2台
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1 ,ViuTV
+http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://livetv.dnsfor.me:80/channel.21.m3u8
+#EXTINF:-1 ,香港第一台广播
+http://livetv.dnsfor.me:80/channel.101.m3u8
+#EXTINF:-1 ,香港2广播
+http://livetv.dnsfor.me:80/channel.104.m3u8
+#EXTINF:-1 ,香港3广播
+http://livetv.dnsfor.me:80/channel.105.m3u8
+#EXTINF:-1 ,香港新城电台广播
+http://livetv.dnsfor.me:80/channel.106.m3u8
+#EXTINF:-1 ,香港4广播
+http://livetv.dnsfor.me:80/channel.107.m3u8
+#EXTINF:-1 ,香港5广播
+http://livetv.dnsfor.me:80/channel.108.m3u8
